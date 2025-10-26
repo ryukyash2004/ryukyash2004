@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Abhishek  
 
-🎓 B.Tech CSE Student | 💻 Game Dev & AI Enthusiast | 
+🎓 B.Tech CSE Student | 💻 AI Enthusiast | 
 
 🌱 Currently learning:
 
