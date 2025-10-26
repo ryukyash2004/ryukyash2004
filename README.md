@@ -3,14 +3,13 @@
 🎓 B.Tech CSE Student | 💻 Game Dev & AI Enthusiast | 
 
 🌱 Currently learning:
-- Game Development (Horror & Multiplayer Projects)
-- AI Systems (LLMs, Chatbots like Neuro-sama)
-- Web Development (Next.js, APIs, UI/UX)
+
+- AI Systems (LLMs, Chatbots, Azure, AWS)
+- Web Development (React, Next.js, APIs, UI/UX)
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m building horror games (Single-player sewer hub project & Multiplayer Mall project).  
 - 🤖 Exploring AI/ML: working on an AI chatbot with speech & avatar features.  
 - 📚 Interested in **action, psychological & sci-fi genres**.  
 - 🎮 Gamer | ✍️ Sketching | 📖 News & Tech browsing.  
@@ -29,8 +28,7 @@
 ---
 
 ## 📌 Pinned Projects
-- 🛒 [Amazon Clone (HTML, CSS, JS)]
-- 🎮 [Single-player Horror Game Demo]  
+- 🛒 [Amazon Clone (HTML, CSS, JS)] 
 - 🏢 [Multiplayer Mall Horror Game]  
 - 🤖 [AI Chatbot Project] 
 
