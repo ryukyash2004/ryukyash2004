@@ -27,13 +27,6 @@
 
 ---
 
-## 📌 Pinned Projects
-- 🛒 [Amazon Clone (HTML, CSS, JS)] 
-- 🏢 [Multiplayer Mall Horror Game]  
-- 🤖 [AI Chatbot Project] 
-
----
-
 ## 📊 GitHub Stats
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryukyash2004&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryukyash2004&layout=compact&theme=radical)  
 
